@@ -1,38 +1,30 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #c4b3b3;
-  text-align: center;
-}
 
 .card {
   width: 400px;
-  margin: 30px auto;
-  background: #e6a4a4;
+  background-color: #fcdada;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  border: 10px;
 }
 
 .title {
-  background: #b65970;
+  background-color: #e07d96;
   color: #850404;
   padding: 10px;
-  font-size: 28px;
-  font-weight: bold;
-  letter-spacing: 1px;
+  text-align: center;
 }
 
 .logo img {
-  width: 300px;
-  margin: 20px 0;
+  padding: 10px;
+  text-align: center;
 }
 
 .info {
   color: #5c0202;
-  line-height: 1.8;
-  font-size: 18px;
+  text-align: center;
 }
 
 .footer {
-  margin-top: 10px;
-  font-size: 14px;
+  text-align: center;
 }

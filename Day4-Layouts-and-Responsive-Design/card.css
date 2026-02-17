@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 330px;
+  background-color: #fcdada;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  background-color: #e07d96;
+  color: #850404;
+  padding: 12px;
+  margin-bottom: 12px;
+  font-size: 13px;
+  text-align: center;
+}
+
+.logo {
+  object-fit: cover;
+  text-align: center;
+}
+
+.info {
+  color: #5c0202;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.footer {
+  text-align: center;
+}
